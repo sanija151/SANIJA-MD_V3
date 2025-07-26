@@ -103,7 +103,7 @@ jobs:
 - [SANIJA NIMTHARU](https://github.com/sanijamdtester)
 - Creater and Owner Of SANIJA-MD
 
-> LITE-MD Helper
+> SANIJA-MD Helper
 - [SANIJA OFC](https://github.com/sanija151)
 - For helping in bot plugin files.
 ---
